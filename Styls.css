@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: cyan;    
+}
+h1{
+    color: blueviolet;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+}
+.btn1{
+   background-color: green;
+   color: white;
+}
